@@ -1,0 +1,4 @@
+repository "rocketgame@maltepebois@cloud"
+  path "/"
+    br "/main"
+    co "/main"
